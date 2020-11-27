@@ -1,0 +1,7 @@
+modiriat dar branch master sakhte shod
+sanati dar branch addSanati azafe shod
+master va addSanati merge shodan
+edari dar branch addEdari azafe shod
+master va addEdari merge shodan
+branch addSanati hazf shod
+branch addEdari hazf shod
