@@ -1,7 +1,9 @@
-modiriat dar branch master sakhte shod
-sanati dar branch addSanati ezafe shod
-master va addSanati merge shodan
-edari dar branch addEdari ezafe shod
-master va addEdari merge shodan
-branch addSanati hazf shod
-branch addEdari hazf shod
+be eshg 6_taeeha tedade computer_ e har bakhsh 6tast :)
+
+1. modiriat dar branch master sakhte shod
+2. sanati dar branch addSanati ezafe shod
+3. master va addSanati merge shodan
+4. edari dar branch addEdari ezafe shod
+5. master va addEdari merge shodan
+6. branch addSanati hazf shod
+7. branch addEdari hazf shod
